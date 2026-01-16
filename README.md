@@ -1,6 +1,6 @@
-# FLUX Vector Studio
+# AIbstraction Studio
 
-AI-powered vector graphics generator for macOS. Create production-ready SVG files from text prompts or existing images using FLUX.1 models via mflux.
+AI-powered vector graphics generator for macOS. Create production-ready SVG files, edge maps, and depth maps from text prompts or images.
 
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
@@ -8,7 +8,7 @@ AI-powered vector graphics generator for macOS. Create production-ready SVG file
 
 ## What It Does
 
-FLUX Vector Studio generates **clean, scalable SVG files** and auxiliary maps from text prompts or image inputs. Built on mflux for native Apple Silicon performance:
+AIbstraction Studio generates **clean, scalable SVG files** and auxiliary maps from text prompts or image inputs. Built on mflux for native Apple Silicon performance:
 
 1. **FLUX.1 Models** - schnell (fast), dev (quality), dev-krea (face consistency)
 2. **Image Input** - Vectorize photos, img2img refinement, face references
@@ -413,7 +413,7 @@ Connect to Claude or other AI agents:
 ```json
 {
   "mcpServers": {
-    "flux-vector": {
+    "aibstraction": {
       "url": "http://localhost:8000/mcp"
     }
   }
