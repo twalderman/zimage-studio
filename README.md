@@ -20,13 +20,30 @@ AIbstraction Studio generates **clean, scalable SVG files** and auxiliary maps f
 
 ## Use Cases
 
+### Vector Graphics
 - **Logos** - Minimalist brand marks, wordmarks, icon logos
 - **Icons** - App icons, UI elements, pictograms
 - **Illustrations** - Flat vector art, infographics, diagrams
 - **Silhouettes** - Bold shapes, stencil-ready designs
 - **Badges** - Emblems, stamps, certification marks
 - **Patterns** - Seamless geometric and abstract patterns
-- **Character Art** - Consistent faces across multiple images
+
+### Control Maps
+- **Canny Edges** - Clean line extraction for ControlNet, tracing templates, coloring books
+- **Depth Maps** - 3D compositing, parallax effects, occlusion masks, AR/VR assets
+- **Heat Maps** - Attention analysis, design critique, visual hierarchy validation
+
+### Image Transformation
+- **Style Transfer** - Convert photos to illustrations, paintings, sketches
+- **Character Consistency** - Generate multiple poses with same face (dev-krea)
+- **Image Editing** - Natural language edits via Kontext ("add sunset lighting")
+- **Batch Processing** - Apply consistent style across image sets
+
+### Creative Workflows
+- **Concept Art** - Rapid iteration with schnell (2 steps), polish with dev
+- **Asset Generation** - Game sprites, UI components, marketing materials
+- **Photo to Vector** - Vectorize logos, traced artwork, scanned drawings
+- **Preprocessing** - Enhance images before vectorization (contrast, posterize)
 
 ## Requirements
 
